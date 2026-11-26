@@ -11,7 +11,7 @@ Brain tumor sub-regions in multi-modal MRI are hard to segment: tumor tissue has
 | **Document** | [`Research_Proposal Shabuz.pdf`](Research_Proposal%20Shabuz.pdf) |
 | **Prepared** | 2025, as a postgraduate research proposal for the Faculty of Computer Science and Information Technology, Universiti Malaya, Kuala Lumpur |
 | **Proposed supervisors** | Prof. Dr. Por Lip Yee; Madam Fazidah binti Othman (Universiti Malaya) |
-| **Current status** | I did not continue at Universiti Malaya. The topic continues as my MSc research at Dhaka University of Engineering & Technology (DUET), supervised by Prof. Dr. Momotaz Begum. |
+| **Current status** | I did not continue at Universiti Malaya. The topic remains one of my research interests, and I plan to implement the method here. |
 
 ## Research objectives
 
